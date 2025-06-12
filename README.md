@@ -1,2 +1,2 @@
 # Next_JS_Project
-Contains all the project I made on Next.js
+Contains all the projects I made on Next.js
